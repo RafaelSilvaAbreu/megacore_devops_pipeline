@@ -8,4 +8,4 @@ def calcular_total_vendas(vendas):
 
 
 
-teste com valores fora da faixa
+#teste com valores fora da faixa
